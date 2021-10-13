@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # Viswajith Viswanathan
-**I am Viswajith Viswanathan from Pathanamthitta, Kerala. I am currently in S1 CSE**
+**I am Viswajith Viswanathan from Pathanamthitta, Kerala. I am currently in S1 CSE 2021-2025 Batch**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|Completed
