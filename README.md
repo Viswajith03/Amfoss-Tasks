@@ -14,7 +14,7 @@
 [Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|JSExplorer|Incomplete 
 [Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Setup a Simple Personal Website|Incomplete 
 [Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Incomplete 
-[Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Poster Design|Incomplete 
+[Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Poster Design|Complete 
 [Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Make the Block|Incomplete 
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design|Incomplete
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Completed
