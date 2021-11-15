@@ -5,7 +5,7 @@
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Begin your journey with Linux and Git|Incomplete
+[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Begin your journey with Linux and Git|Complete
 [Task-03](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-03)|Programming|Incomplete 
 [Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)|Aerglo Mars|Incomplete 
 [Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Let me C|Incomplete 
