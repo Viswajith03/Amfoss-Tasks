@@ -1,7 +1,5 @@
 This Task was very helpful to understand linux commands.
-
 Step 2 took some time because I had to figure out how all the commands work after that I was able to do all the tasks fast.
-
 the command I used for this Task is as follows:
 
 mkdir : used to crete a directory
