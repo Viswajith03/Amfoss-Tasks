@@ -8,18 +8,19 @@
 [Task-02]|Begin your journey with Linux and Git|Completed
 [Task-03]|Programming|Incomplete 
 [Task-04]|Aerglo Mars|Incomplete 
-[Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Let me C|Incomplete 
-[Task-06](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-06)|Flutter based UI task|Incomplete 
-[Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Rich Scraper|Incomplete 
-[Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|JSExplorer|Incomplete 
-[Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Setup a Simple Personal Website|Incomplete 
-[Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Incomplete 
-[Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Poster Design|Complete 
-[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Make the Block|Incomplete 
-[Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design|Incomplete
-[Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Completed
-[Task-15](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-15)|Project Euler|InCompleted
+[Task-05]|Let me C|Incomplete 
+[Task-06]|Flutter based UI task|Incomplete 
+[Task-07]|Rich Scraper|Incomplete 
+[Task-08]|JSExplorer|Incomplete 
+[Task-09]|Setup a Simple Personal Website|Incomplete 
+[Task-10]|CS50|Incomplete 
+[Task-11]|Poster Design|Complete 
+[Task-12]|Make the Block|Incomplete 
+[Task-13]|Circuit Design|Incomplete
+[Task-14]|Bandit|Completed
+[Task-15]|Project Euler|InCompleted
 ## My views about the tasks
-NEED TO WRITE
+The tasks were really nice, it was very infromative. I got to learn a lot.
 ## My Introduction
-NEED TO WRITE
+My name is Viswajith Viswanathan, I am from Pathanamthitta, Kerala. I am from CSE -B.
+I like Technology in general and I wish to learn more about Computers.
