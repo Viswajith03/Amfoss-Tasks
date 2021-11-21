@@ -1,6 +1,6 @@
 # INTROSPECTION
 ### Why must we choose you?
-First of all I am really interested in learing about computers but I wasnt able to work on tasks for two weeks as I was travelling, I was living in Kuwait for the past 14 years and now I moved to India so I was a busy with that.I was able to work on the task for only 2 weeks in total. I tried to do my maximum. Secondly, I will give my 100% to the tasks and assingments that will be assingned to me if I get to be in the team.  
+First of all I am really interested in learing about computers but I wasnt able to work on tasks for two weeks as I was travelling, I was living in Kuwait for the past 14 years and now I moved to India so I was a busy with that, moving from what the plavce the you considered home for 14 years is quite difficult...So,I was able to work on the task for only 2 weeks in total. I tried to do my maximum. Secondly, I will give my 100% to the tasks and assingments that will be assingned to me if I get to be in the team.  
 ### What is your plan for the next 6 months?
 In the next six months I want to explore the world of computer science as much as possible so that I can get some idea on the basics of all the fields so that I can choose a particular field that I can try to learn deeply
 
