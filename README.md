@@ -8,11 +8,11 @@
 [Task-02]|Begin your journey with Linux and Git|Completed
 [Task-03]|Programming|Incomplete 
 [Task-04]|Aerglo Mars|Incomplete 
-[Task-05]|Let me C|Incomplete 
+[Task-05]|Let me C|Complete
 [Task-06]|Flutter based UI task|Incomplete 
 [Task-07]|Rich Scraper|Incomplete 
 [Task-08]|JSExplorer|Incomplete 
-[Task-09]|Setup a Simple Personal Website|Incomplete 
+[Task-09]|Setup a Simple Personal Website|Complete
 [Task-10]|CS50|Incomplete 
 [Task-11]|Poster Design|Complete 
 [Task-12]|Make the Block|Incomplete 
