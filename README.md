@@ -7,7 +7,7 @@
 [Task-01]|Staring amFOSS repositories|Completed
 [Task-02]|Begin your journey with Linux and Git|Completed
 [Task-03]|Programming|Incomplete 
-[Task-04]|Aerglo Mars|Incomplete 
+[Task-04]|Aerglo Mars|Completed 
 [Task-05]|Let me C|Completed
 [Task-06]|Flutter based UI task|Incomplete 
 [Task-07]|Rich Scraper|Incomplete 
