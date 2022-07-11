@@ -6,10 +6,10 @@
 [Task-00](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2000)|Installing Ubuntu|Completed
 [Task-01](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2001)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2002/Coordinates-Location)|Begin your journey with Linux and Git|Completed
-[Task-03]|Programming|Incomplete 
+Task-03|Programming|Incomplete 
 [Task-04](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2004)|Aerglo Mars|Completed 
 [Task-05](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2005)|Let me C|Completed
-[Task-06]|Flutter based UI task|Incomplete 
+Task-06|Flutter based UI task|Incomplete 
 [Task-07]|Rich Scraper|Incomplete 
 [Task-08](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2008)|JSExplorer|Completed
 [Task-09](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2009)|Setup a Simple Personal Website|Completed
