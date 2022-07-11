@@ -10,7 +10,7 @@ Task-03|Programming|Incomplete
 [Task-04](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2004)|Aerglo Mars|Completed 
 [Task-05](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2005)|Let me C|Completed
 Task-06|Flutter based UI task|Incomplete 
-[Task-07]|Rich Scraper|Incomplete 
+Task-07|Rich Scraper|Incomplete 
 [Task-08](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2008)|JSExplorer|Completed
 [Task-09](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2009)|Setup a Simple Personal Website|Completed
 [Task-10]|CS50|Incomplete 
