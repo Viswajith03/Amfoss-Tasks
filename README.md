@@ -14,7 +14,7 @@ Task-07|Rich Scraper|Incomplete
 [Task-08](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2008)|JSExplorer|Completed
 [Task-09](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2009)|Setup a Simple Personal Website|Completed
 Task-10|CS50|Incomplete 
-[Task-11](https://github.com/Viswajith03/Amfoss-Tasks/blob/main/Task%20-%2011/Viswajith%20V.pdf)|Poster Design|Complete 
+[Task-11](https://github.com/Viswajith03/Amfoss-Tasks/blob/main/Task%20-%2011/Viswajith%20V.pdf)|Poster Design|Completed
 Task-12|Make the Block|Incomplete 
 Task-13|Circuit Design|Incomplete
 [Task-14](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2014)|Bandit|Completed
@@ -23,4 +23,4 @@ Task-15|Project Euler|InCompleted
 The tasks were really nice, it was very infromative. I got to learn a lot.
 ## My Introduction
 My name is Viswajith Viswanathan, I am from Pathanamthitta, Kerala. I am from CSE -B.
-I like Technology in general and I wish to learn more about Computers.
+
