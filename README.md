@@ -13,7 +13,7 @@ Task-06|Flutter based UI task|Incomplete
 Task-07|Rich Scraper|Incomplete 
 [Task-08](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2008)|JSExplorer|Completed
 [Task-09](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2009)|Setup a Simple Personal Website|Completed
-[Task-10]|CS50|Incomplete 
+Task-10|CS50|Incomplete 
 [Task-11](https://github.com/Viswajith03/Amfoss-Tasks/blob/main/Task%20-%2011/Viswajith%20V.pdf)|Poster Design|Complete 
 Task-12|Make the Block|Incomplete 
 Task-13|Circuit Design|Incomplete
