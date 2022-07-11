@@ -22,5 +22,5 @@ Task-15|Project Euler|InCompleted
 ## My views about the tasks
 The tasks were really nice, it was very infromative. I got to learn a lot.
 ## My Introduction
-My name is Viswajith Viswanathan, I am from Pathanamthitta, Kerala. I am from CSE -B.
+My name is Viswajith Viswanathan, I am from Pathanamthitta, Kerala. I am from CSE - B.
 
