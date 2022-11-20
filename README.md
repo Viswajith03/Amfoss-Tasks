@@ -18,9 +18,9 @@ Task-10|CS50|Incomplete
 Task-12|Make the Block|Incomplete 
 Task-13|Circuit Design|Incomplete
 [Task-14](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2014)|Bandit|Completed
-Task-15|Project Euler|Incompleted
+Task-15|Project Euler|Incomplete
 ## My views about the tasks
-The tasks were really nice, it was very infromative. I got to learn a lot.
+The tasks helped to understand the process of learning a lot by oneself. I got to learn a lot without the help of others which I never thought I could.
 ## My Introduction
 My name is Viswajith Viswanathan, I am from Pathanamthitta, Kerala. I am from CSE - B.
 
