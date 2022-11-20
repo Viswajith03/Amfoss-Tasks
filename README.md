@@ -9,8 +9,8 @@
 Task-03|Programming|Incomplete 
 [Task-04](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2004)|Aerglo Mars|Completed 
 [Task-05](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2005)|Let me C|Completed
-Task-06|Flutter based UI task|Incomplete 
-Task-07|Rich Scraper|Incomplete 
+[Task-06](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2006)|Flutter based UI task|Completed
+[Task-07](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2007/pgmfile)|Rich Scraper|Completed
 [Task-08](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2008)|JSExplorer|Completed
 [Task-09](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2009)|Setup a Simple Personal Website|Completed
 Task-10|CS50|Incomplete 
@@ -18,7 +18,7 @@ Task-10|CS50|Incomplete
 Task-12|Make the Block|Incomplete 
 Task-13|Circuit Design|Incomplete
 [Task-14](https://github.com/Viswajith03/Amfoss-Tasks/tree/main/Task%20-%2014)|Bandit|Completed
-Task-15|Project Euler|InCompleted
+Task-15|Project Euler|Incompleted
 ## My views about the tasks
 The tasks were really nice, it was very infromative. I got to learn a lot.
 ## My Introduction
