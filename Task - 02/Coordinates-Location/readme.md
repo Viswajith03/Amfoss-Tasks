@@ -1,2 +1,1 @@
-![plot](./Amfoss-Tasks/Task - 02/Coordinates-Location/Task 2 Screenshots/LocationinGoogleMap.png)
-![alt text](https://github.com/Viswajith03/Amfoss-Tasks/blob/Task-02/Coordinates-Location/Task2Screenshots/LocationinGoogleMap.png)
+<img src = https://github.com/Viswajith03/Amfoss-Tasks/blob/main/Task%20-%2002/Coordinates-Location/Task%202%20Screenshots/LocationinGoogleMap.png?raw=true>
