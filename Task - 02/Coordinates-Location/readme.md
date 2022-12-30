@@ -5,15 +5,19 @@ Result Screenshot
 ```
 mkdir Coordinates-Location 
 ```
+
 ```
 cd Coordinates-Location/
 ```
+
 ```
 mkdir North
 ```
+
 ```
 cd North/
 ```
+
 ```
 gedit NDegree.txt 
 ```
@@ -38,7 +42,6 @@ rm NorthCoordinate.txt
 ```
 cd..
 ```
-
 ```
 mkdir East
 ```
@@ -61,28 +64,11 @@ cat EDegree.txt EMinutes.txt ESeconds.txt > EastCoordinate.txt
 mv EastCoordinate.txt ~/Coordinates-Location
 ```
 ```
-cd -
+cd
 ```
 ```
 mv EastCoordinate.txt East.txt
 ```
 ```
 cat North.txt East.txt > Location-Coordinate.txt
-```
-I used the following git commands to push this folder.
-
-```
-git clone https://github.com/senthil-dot-adhu-idhu/amfoss-tasks.git
-```
-```
-git init
-```
-```
-git add .
-```
-```
-git commit -m" Commit Message "
-```
-```
-git push origin "branch_name"
 ```
